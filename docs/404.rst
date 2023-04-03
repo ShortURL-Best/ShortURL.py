@@ -1,0 +1,5 @@
+Page Not Found
+==============
+
+This is not the web page you are looking for.
+Try using the search box or go to the `homepage <link https://sys-botbase.readthedocs.io/en/latest/>`_.

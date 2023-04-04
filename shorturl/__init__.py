@@ -6,9 +6,13 @@
 from .client import *
 from .http import *
 
-__title__ = "shorturl.best"
+<<<<<<< HEAD
+__title__ = "shorturlbest"
+=======
+__title__ = "shorturl"
+>>>>>>> 83ad1eb17873cfa5f2aaa00ff42d7e5355c187cc
 __author__ = "6A-Realm"
-__version__ = "0.0.1"
+__version__ = "p0.0.2"
 __license__ = "MIT"
 __copyright__ = "Copyright 2023 - Present"
 __github__ = "https://github.com/ShortURL-Best/shorturl.py"

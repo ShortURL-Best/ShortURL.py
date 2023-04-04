@@ -5,7 +5,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setup(
     name = "shorturl.best",
-    version = "0.0.1",
+    version = "p0.0.2",
     author = "6A-Realm",
     author_email = "6arealm@gmail.com",
     description = "A Python wrapper for the ShortURL API",

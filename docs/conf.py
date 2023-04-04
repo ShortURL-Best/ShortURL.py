@@ -5,8 +5,8 @@ project = "shorturl.py"
 copyright = "2023-Present"
 author = "6A-Realm"
 
-release = "0.0.1"
-version = "0.0.1"
+release = "p0.0.2"
+version = "p0.0.2"
 
 # -- General configuration
 extensions = [
